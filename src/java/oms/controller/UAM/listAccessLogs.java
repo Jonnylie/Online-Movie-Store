@@ -41,8 +41,9 @@ public class listAccessLogs extends HttpServlet {
         HttpSession session = request.getSession();
         DatabaseManager manager = (DatabaseManager)session.getAttribute("manager");
         
-        
+         User user = (User) session.getAttribute("user");
          String userDate = request.getParameter("date");
+         String userID = user.getID(); 
          List<UserAccessLogs> logList = new ArrayList<>();
         
         
@@ -50,7 +51,7 @@ public class listAccessLogs extends HttpServlet {
           
          
            
-           logList = manager.searchLogsByDate(userDate);
+           logList = manager.searchLogsByDate(userDate, userID);
         } catch (SQLException ex) {
             Logger.getLogger(listAccessLogs.class.getName()).log(Level.SEVERE, null, ex);
         }
