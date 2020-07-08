@@ -7,3 +7,7 @@ Jonny
 Lucky
 Lee
 Ian
+
+Setup
+Right click OnlineMovieStore project > Set as main project.
+Build and run the project.
