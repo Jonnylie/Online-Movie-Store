@@ -1,15 +1,16 @@
 # Online Movie Store
 
-Introduction-to-Software-Development-41025
+A group project of web application for users to buy movies and admin to manage movies and users .
+This project was created for 41025 Introduction to Software Development course at UTS.
 Developers:
 
 Pramish Luitel
 Phong Au
-Jonny
+Jonny Lie
 Lucky
 Lee
 Ian
 
-Setup
+# Setup
 Right click OnlineMovieStore project > Set as main project.
 Build and run the project.
