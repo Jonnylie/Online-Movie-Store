@@ -23,4 +23,16 @@ Build and run the project.
 
 ![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/LandingPage.PNG)
 
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/LoginPage.PNG)
+
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/HomePage.PNG)
+
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/MovieCatalogue.PNG)
+
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/OrderMovie.PNG)
+
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/OrderHistory.PNG)
+
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/AccessList.PNG)
+
 
