@@ -21,6 +21,6 @@ Build and run the project.
 
 ## Previews
 
-https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/LandingPage.PNG
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/LandingPage.PNG)
 
 
