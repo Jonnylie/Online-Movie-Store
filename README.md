@@ -33,7 +33,7 @@ Build and run the project.
 
 ![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/OrderHistory.PNG)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/AccessList.PNG)
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/AccessList.jpg)
 
 ![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/UserManagement.PNG)
 
