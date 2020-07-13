@@ -13,6 +13,6 @@ This project was created for 41025 Introduction to Software Development course a
 - Lee
 - Ian
 
-# Setup
+## Setup
 Right click OnlineMovieStore project > Set as main project.
 Build and run the project.
