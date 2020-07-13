@@ -21,22 +21,22 @@ Build and run the project.
 
 ## Previews
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/LandingPage.PNG)
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/LandingPage.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/LoginPage.PNG)
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/LoginPage.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/HomePage.PNG)
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/HomePage.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/MovieCatalogue.PNG)
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/MovieCatalogue.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/OrderMovie.PNG)
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/OrderMovie.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/OrderHistory.PNG)
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/OrderHistory.jpg)
 
 ![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/AccessList.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/UserManagement.PNG)
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/UserManagement.jpg)
 
-![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/CustomerManagement.PNG)
+![alt text](https://github.com/Jonnylie/Online-Movie-Store/blob/master/docs/CustomerManagement.jpg)
 
 
