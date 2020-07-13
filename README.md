@@ -13,6 +13,13 @@ This project was created for 41025 Introduction to Software Development course a
 - Lee
 - Ian
 
+## Features
+
+- Java Server Pages (JSP)
+- REST Web Service
+- Spring MVC
+- Search feature
+
 ## Setup
 
 Right click OnlineMovieStore project > Set as main project.
