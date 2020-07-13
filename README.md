@@ -4,7 +4,7 @@ A group project of web application for users to buy movies and admin to manage m
 
 This project was created for 41025 Introduction to Software Development course at UTS.
 
-Developers:
+## Developers
 
 - Jonny LIe
 - Phong Au
