@@ -20,7 +20,6 @@ This project was created for 41025 Introduction to Software Development course a
 - Bootstrap
 - SQL
 - RESTful web services
-- MVC pattern
 
 ## Features
 
