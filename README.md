@@ -13,6 +13,15 @@ This project was created for 41025 Introduction to Software Development course a
 - Lee
 - Ian
 
+## Built with
+
+- Java
+- JSP
+- Bootstrap
+- SQL
+- RESTful web services
+- MVC pattern
+
 ## Features
 
 - Register and login to buy movies
