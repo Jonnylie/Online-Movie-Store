@@ -25,7 +25,7 @@ This project was created for 41025 Introduction to Software Development course a
 
 - Register and login to buy movies
 - Update account details
-- view Purchase, login and logout history
+- View Purchase, login and logout history
 - Add, edit and delete movies
 - Search feature
 - User and customer management
